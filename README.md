@@ -20,9 +20,10 @@
 > This is in  Blockquotes
 ## inline code
 `Mic Collge`
-# Table Creation
-Technology|Percentage
----------------------
+# Table Creation:
+
+Technology|Marks
+----------|-----
 python    |100%
 git       |76%
 database  |80%
